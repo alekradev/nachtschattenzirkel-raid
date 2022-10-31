@@ -1,0 +1,14 @@
+.callout[data-callout="normal"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: lucide-info;
+}
+
+.callout[data-callout="heroic"] {
+    --callout-color: 171 , 43, 34;
+    --callout-icon: lucide-info;
+}
+
+.callout[data-callout="mythic"] {
+    --callout-color: 132, 34, 171;
+    --callout-icon: lucide-info;
+}
