@@ -23,23 +23,5 @@ Terros bekämpft seine Angreifer mit einer Reihe zerstörerischer Angriffe und s
 	- [[Erweckte Erde]] fügt allen Spielercharakteren regelmäßigen Schaden zu und löst einen [[Seismischer Angriff]] aus, wenn sie zerstört wird.
 ---
 
-## Fähigkeiten
 
-> [!normal]- Steineinschlag
-> ![[Steineinschlag]]
-
-> [!normal]- Resonierende Vernichtung
-> ![[Resonierende Vernichtung]]
-
-> [!normal]- Zerschmetternder Einschlag
-> ![[Zerschmetternder Einschlag]]
-
-> [!normal]- Erschütterndes Schmettern
-> ![[Erschütterndes Schmettern]]
-
-> [!normal]- Rasende Verwüstung
-> ![[Rasende Verwüstung]]
-
-> [!normal]- Tektonischer Beschuss
-> ![[Tektonischer Beschuss]]
 

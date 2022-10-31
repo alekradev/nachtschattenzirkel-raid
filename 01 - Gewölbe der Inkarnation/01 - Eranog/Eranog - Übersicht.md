@@ -13,7 +13,7 @@ Eranog, der Befehlshaber der Streitkräfte der Primalisten, greift rücksichtslo
 PLACEHOLDER
 
 - Tanks
-	- [[Geschmolzener Schwung]] fügt allen Spielercharakteren vor [[Eranog]] massiven Schaden zu. Weitere Treffer gegen dasselbe Ziel verursachen stark erhöhten Schaden.
+	- [[Geschmolzener Schwung]] fügt allen Spielercharakteren vor [[Eranog - Übersicht]] massiven Schaden zu. Weitere Treffer gegen dasselbe Ziel verursachen stark erhöhten Schaden.
 	- [[Kollabierende Armee]] fügt allen, die in den Weg des Elementars geraten, tüdlichen Schaden zu.
 	- Kollabierende Flammen im [[Urzeitlicher Fluss]] erhalten [[Geschmolzene Barriere]]
 - DPS
@@ -27,25 +27,4 @@ PLACEHOLDER
 ---
 
 ---
-## Fähigkeiten
 
-> [!INFO]- Kollabierende Armee 
-> ![[Kollabierende Armee]]
-
-> [!INFO]- Urzeitlicher Fluss
-> ![[Urzeitlicher Fluss]]
-
-> [!INFO]- Streitkräfte des Primalisten
-> ![[Streitkräfte des Primalisten]]
-
-> [!INFO]- Loderndes Brandmal
-> ![[Loderndes Brandmal]]
-
-> [!INFO]- Geschmolzener Schwung
-> ![[Geschmolzener Schwung]]
-
-> [!INFO]- Wachsende Hitze
-> ![[Wachsende Hitze]]
-
-> [!INFO]- Loderne Banner
-> ![[Loderne Banner]]

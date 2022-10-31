@@ -3,8 +3,6 @@
   "global-search",
   "switcher",
   "graph",
-  "backlink",
-  "outgoing-link",
   "tag-pane",
   "page-preview",
   "daily-notes",
@@ -15,6 +13,5 @@
   "starred",
   "outline",
   "word-count",
-  "slides",
   "file-recovery"
 ]

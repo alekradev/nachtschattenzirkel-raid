@@ -1,12 +1,10 @@
 ***
 ## Fähigkeiten
 
->[!INFO]- Tötungsreihenfolge
->![[Tötungsreihenfolge]]
-
->[!INFO]- Tobender Sturmangriff
->![[Tobender Sturmangriff]]
-
->[!INFO]- Explosive Barriere
->![[Explosive Barriere]]
+### Tötungsreihenfolge
+![[Tötungsreihenfolge]]
+### Tobender Sturmangriff
+![[Tobender Sturmangriff]]
+### Explosive Barriere
+![[Explosive Barriere]]
 

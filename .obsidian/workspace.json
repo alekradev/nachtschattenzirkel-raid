@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "059c5d023e9a113c",
+        "id": "9b9095ffae14fd64",
         "type": "tabs",
         "children": [
           {
-            "id": "3ad2c1d4340b3f3c",
+            "id": "72c95ec1b3908da5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Dathea, die Aufgestiegene.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 340.5
   },
   "right": {
     "id": "6eb6f2a52a4e291a",
@@ -79,35 +75,6 @@
         "id": "c3be096b4f9c63b7",
         "type": "tabs",
         "children": [
-          {
-            "id": "cbac27bde3678a58",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Dathea, die Aufgestiegene.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6ed04e664aa930dc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Dathea, die Aufgestiegene.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "7331715ae4f718d7",
             "type": "leaf",
@@ -124,29 +91,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Dathea, die Aufgestiegene.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 328.5
   },
-  "active": "3ad2c1d4340b3f3c",
+  "active": "72c95ec1b3908da5",
   "lastOpenFiles": [
-    "01 - Gewölbe der Inkarnation/04 - Sennarth, der kalte Atem/Sennarth, der kalte Atem.md",
-    "01 - Gewölbe der Inkarnation/04 - Sennarth, der kalte Atem/Abilities/Klebriges Gespinst.md",
-    "01 - Gewölbe der Inkarnation/04 - Sennarth, der kalte Atem/Abilities/Vereister Boden.md",
-    "01 - Gewölbe der Inkarnation/03 - Der Primalistenrat/Encounter/Der Primalistenrat.md",
-    "01 - Gewölbe der Inkarnation/03 - Der Primalistenrat/Encounter/Dathea Sturmpeitscher.md",
-    "01 - Gewölbe der Inkarnation/03 - Der Primalistenrat/Encounter/Kadros Eiszorn.md",
+    "01 - Gewölbe der Inkarnation/02 - Terros/Terros - Übersicht.md",
+    "01 - Gewölbe der Inkarnation/04 - Sennarth, der kalte Atem/Sennarth, der kalte Atem - Übersicht.md",
+    "01 - Gewölbe der Inkarnation/04 - Sennarth, der kalte Atem/Encounter/Sennarth, der kalte Atem.md",
+    "01 - Gewölbe der Inkarnation/04 - Sennarth, der kalte Atem/Encounter/Ätzender Spinnling.md",
+    "01 - Gewölbe der Inkarnation/04 - Sennarth, der kalte Atem/Encounter/Frostatemarachnid.md",
+    "01 - Gewölbe der Inkarnation/01 - Eranog/Eranog - Übersicht.md",
+    "01 - Gewölbe der Inkarnation/03 - Der Primalistenrat/Der Primalistenrat - Übersicht.md",
     "01 - Gewölbe der Inkarnation/03 - Der Primalistenrat/Encounter/Opalzahn.md",
-    "01 - Gewölbe der Inkarnation/02 - Terros/Terros.md",
-    "01 - Gewölbe der Inkarnation/01 - Eranog/Eranog.md",
-    "01 - Gewölbe der Inkarnation/01 - Eranog/Encounter/Tarasek.md"
+    "01 - Gewölbe der Inkarnation/03 - Der Primalistenrat/Abilities/Zermalmen.md",
+    "01 - Gewölbe der Inkarnation/03 - Der Primalistenrat/Encounter/Kadros Eiszorn.md"
   ]
 }

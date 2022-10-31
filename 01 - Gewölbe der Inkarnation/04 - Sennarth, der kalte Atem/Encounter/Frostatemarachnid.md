@@ -1,11 +1,7 @@
 Image
 
 ---
+# Fähigkeiten
 
-## Fähigkeiten
-
-> [!normal]- Gefrierender Atem
-> ![[Gefrierender Atem]]
-
-> [!mythic]- Unterkühlende Aura
-> ![[Unterkühlende Aura]]
+* [[Gefrierender Atem]]
+* [[Unterkühlende Aura]]
