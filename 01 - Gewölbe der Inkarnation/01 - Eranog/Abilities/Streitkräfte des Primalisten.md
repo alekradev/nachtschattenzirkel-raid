@@ -2,7 +2,7 @@
 > ![[attention.png|36]]
 
 ***
-Eranog ruft rasende [[Tarasek]], die ihm im Kampf beistehen.
+[[Eranog]] ruft rasende [[Tarasek]], die ihm im Kampf beistehen.
 
 
 
