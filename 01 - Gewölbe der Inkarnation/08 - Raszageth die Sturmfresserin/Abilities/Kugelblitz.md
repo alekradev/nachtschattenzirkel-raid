@@ -5,6 +5,6 @@
 
 ***
 
-
+Das [[kolossale Sturmungetüm]] verbreitet [[Blitzkugeln]]. Spielercharaktere, die eine dieser Kugeln berühren, erleiden 88.202 Naturschaden und werden für 0.5 Sek. betäubt.
 
 ***

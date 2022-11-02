@@ -4,7 +4,6 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
-
+Der Zaubernde entfesselt Sturmenergie von zunehmender Intensität, fügt dem Ziel 56.904 Naturschaden zu und erhöht das Tempo des Zaubernden 5 Sek. lang um 10%
 
 ***

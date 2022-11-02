@@ -4,7 +4,6 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
-
+Das kolossale Sturmungetüm teleportiert sich an einen neuen Ort und fügt Spielercharakteren innerhalb von 10 Metern um den Zauber- und Ankunftsort 85.356 Naturschaden zu. Erschafft suchende Sturmlinge an der Position des Zauberwirkens. 
 
 ***

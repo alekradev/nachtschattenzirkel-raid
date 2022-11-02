@@ -5,6 +5,7 @@
 
 ***
 
+Raszageth und ihre Streitkräfte der Primalisten greifen das Gewölbe der Inkarnationen an und schwächen die Zellen mit ihren Angriffen. Wenn der Zustand des Gewölbes 50% oder 10% erreicht, geht Raszageth zum nächsten Teil ihres Plans über 
 
 
 ***

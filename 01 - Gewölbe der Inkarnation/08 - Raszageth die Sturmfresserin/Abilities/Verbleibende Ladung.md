@@ -4,7 +4,6 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
-
+Wenn [[Fulminante Ladung]] abläuft, verbleibt eine Ladung auf dem Opfer und verursacht 9 Sek. lang alle 1,5 Sek. 28.452 Naturschaden.
 
 ***

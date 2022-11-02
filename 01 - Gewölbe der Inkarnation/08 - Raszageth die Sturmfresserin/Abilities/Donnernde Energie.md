@@ -5,6 +5,6 @@
 
 ***
 
-
+Nach 1,5 Sek. explodiert [[Donnernde Energie]] und fügt allen Spielercharakteren bis zu 1 Million Naturschaden zu, basierend auf dem vom Opfer durch [[Donnernder Einschlag]] insgesamt erlittenen Schaden und belegt das Ziel mit [[Geschmolzene Rüstung]].
 
 ***

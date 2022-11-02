@@ -4,7 +4,6 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
-
+Blitzpeitschen schlagen nach mehreren Spielercharakteren und verursachen 3 Sek. lang alle 0,5 Sek. 8.536 Naturschaden.
 
 ***

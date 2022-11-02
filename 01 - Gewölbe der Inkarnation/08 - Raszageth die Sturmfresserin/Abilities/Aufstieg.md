@@ -5,6 +5,6 @@
 
 ***
 
-
+Bei Erreichen von 50% Gesundheit wird die Sturm sucherakolythin ermächtigt und wird immun gegen Unterbrechungsund Kontrollverlusteffekte.
 
 ***

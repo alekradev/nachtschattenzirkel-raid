@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Raszageth gibt kontinuierlich knisternde Blitze ab, die allen Spielercharakteren alle 2 Sek. 11.381 Naturschaden zufügen. Blitzpeitschen schlagen regelmäßig umher und belegen mehrere Spielercharaktere mit [[Boshaftes Peitschen]].
 
 
 ***

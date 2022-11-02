@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Raszageth die Sturmfresserin.md",
+                "file": "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Blitzschläge.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Raszageth die Sturmfresserin.md"
+                "file": "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Blitzschläge.md"
               }
             }
           }
@@ -120,19 +120,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 200
   },
   "active": "b45d942fd6ea6ad9",
   "lastOpenFiles": [
-    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Bruthüterin Diurna.md",
-    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Raszageth die Sturmfresserin.md",
-    "01 - Gewölbe der Inkarnation/06 - Kurog Grimmtotem/Kurog Grimtotem.md",
-    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Zorn des Großstabs.md",
-    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Zorn des ermächtigten Großstabs.md",
-    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Zerschmetternde Steinklauen.md",
-    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Wut der Gelegehüterin.md",
-    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Wut der Bruthüterin.md",
-    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Verwundender Biss.md",
-    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Verweilender Blick.md"
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Donnernde Energie.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Donnernder Einschlag.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Blitzatem.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Verbleibende Ladung.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Fulminante Ladung.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Orkanschwinge.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Tobender Sturm.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Unkontrollierte Energie.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Knisternde Energie.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Kugelblitz.md"
   ]
 }

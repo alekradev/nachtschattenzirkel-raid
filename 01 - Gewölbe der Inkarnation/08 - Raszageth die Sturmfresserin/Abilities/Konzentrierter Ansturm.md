@@ -4,7 +4,6 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
-
+Erhöht den verursachten Schaden um 200% und die hervorgerufene Heilung und Absorption um 200%.
 
 ***
