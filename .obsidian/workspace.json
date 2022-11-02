@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Statische Anziehung.md",
+                "file": "01 - Gewölbe der Inkarnation/06 - Kurog Grimmtotem/Abilities/Blitzeinschlag.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b45d942fd6ea6ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Zorn des Großstabs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Statische Anziehung.md"
+                "file": "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Zorn des Großstabs.md"
               }
             }
           }
@@ -108,17 +122,17 @@
     "direction": "horizontal",
     "width": 328.5
   },
-  "active": "1ff67c88ad835173",
+  "active": "b45d942fd6ea6ad9",
   "lastOpenFiles": [
-    "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Scherwinde.md",
-    "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Luftstoß.md",
-    "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Luftschlitzen.md",
-    "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Gegenwind.md",
-    "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Instabile Windstöße.md",
-    "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Ermächtigtes leitfähiges Zeichen.md",
-    "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Donnerblitz.md",
-    "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Zephyrschmettern.md",
-    "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Wütender Gewittersturm.md",
-    "01 - Gewölbe der Inkarnation/05 - Dathea, die Aufgestiegene/Abilities/Wütender Ausbruch.md"
+    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Zorn des ermächtigten Großstabs.md",
+    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Zerschmetternde Steinklauen.md",
+    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Wut der Gelegehüterin.md",
+    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Wut der Bruthüterin.md",
+    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Verwundender Biss.md",
+    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Verweilender Blick.md",
+    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Trauma.md",
+    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Tödliche Steinklauen.md",
+    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Statisches Feld.md",
+    "01 - Gewölbe der Inkarnation/07 - Bruthüterin Diurna/Abilities/Statischer Schock.md"
   ]
 }

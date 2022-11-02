@@ -7,7 +7,4 @@
 
 Dathea rammt ihre ermächtigte Faust mit einem [[Luftstoß]] in ihr derzeitiges Ziel, fügt ihm 181.429 körperlichen Schaden zu und stößt es zurück. Jeder Einschlag erhöht den erlittenen Schaden und den Rückstoß 55 Sek. lang um 50%. Dieser Effekt ist stapelbar.
 
-
-
-
 ***

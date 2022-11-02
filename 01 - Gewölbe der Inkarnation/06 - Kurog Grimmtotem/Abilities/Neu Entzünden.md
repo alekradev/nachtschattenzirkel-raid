@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
+Nachdem er seine Hitze ausgestoßen hat, absorbiert der Elementar Lavapfützen wieder und wird dabei betäubt. Er gewinnt seine volle Energie im Verlauf von 2O Sek. zurück.
 
-Der [[Donnerrufer]] enfesselt einen Sturmblitz auf ein Ziel fügt ihm 14.941 Naturschaden zu.
 
 ***

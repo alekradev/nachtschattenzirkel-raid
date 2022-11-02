@@ -4,10 +4,6 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
-
-
-
-
+Durch [[statische Anziehung]] erleidet der Spielercharakter durch [[Donnerblitz]] 1 Min. lang 10% mehr Schaden. Dieser Effekt ist stapelbar.
 
 ***

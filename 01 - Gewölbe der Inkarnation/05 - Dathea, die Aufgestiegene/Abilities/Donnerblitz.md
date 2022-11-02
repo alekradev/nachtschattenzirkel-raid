@@ -8,8 +8,4 @@ Ein Gewitter hängt in der Luft, nachdem Datheas Diener erschaffen wurden, und f
 
 Getroffene Spielercharaktere erhalten zusätzlich einen Stapel von [[Statische Anziehung]].
 
-
-
-
-
 ***
