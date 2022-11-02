@@ -1,8 +1,15 @@
 > ![[normal.png|36]]
+> ![[heal.png|36]]
 
 ***
-Fügt allen Spielercharakteren alle 1 Sek. 17.071 Feuerschaden zu.
 
+[[Eranog]] Schuppen pulsieren mit Flammen und fügen allen Spielercharakteren 19.273 Feuerschaden zu.
 
 
 ***
+
+> [!INFO]- Änderung: Heroic
+> TEXT
+
+> [!INFO]- Änderung: Mythic
+> TEXT

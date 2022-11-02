@@ -1,17 +1,19 @@
 ***
 ## Fähigkeiten
 
-### Kollabierende Armee
-![[Kollabierende Armee]]
-### Urzeitlicher Fluss
-![[Urzeitlicher Fluss]]
-### Streitkräfte des Primalisten
-![[Streitkräfte des Primalisten]]
-### Loderndes Brandmal
-![[Loderndes Brandmal]]
-### Geschmolzener Schwung
-![[Geschmolzener Schwung]]
-### Wachsende Hitze
-![[Wachsende Hitze]]
-### Loderne Banner
-![[Loderne Banner]]
+### Phase 1
+#### Flammenriss
+![[Flammenriss]]
+#### Großer Flammenriss
+![[Großer Flammenriss]]
+#### Geschmolzenes Spalten
+![[Geschmolzenes Spalten]]
+#### Einäscherndes Brüllen
+![[Einäscherndes Brüllen]]
+#### Geschmolzene Stacheln
+![[Geschmolzene Stacheln]]
+#### Brennende Wunde
+![[Brennende Wunde]]
+### Phase 2
+#### Flammenarmee
+![[Flammenarmee]]

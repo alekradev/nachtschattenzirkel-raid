@@ -24,9 +24,186 @@
             "id": "b45d942fd6ea6ad9",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e17c52b06c6ef55d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Blitzschläge.md",
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Encounter/Eranog.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "aebb3451a4c6c856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Flammenriss.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "554ef5d26e203b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Lavafluss.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "29e7e871d4b78991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Großer Flammenriss.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6998f63f59f1a086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Springende Flammen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2f297acebe641fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Pyroschlag.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "df745055364d344d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Geschmolzenes Spalten.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8772326aad80d146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Einäscherndes Brüllen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dc97e266fbada9f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Geschmolzene Stacheln.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c0255faa245e68cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Geschmolzener Riss.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bb49a232c9f6591e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Brennende Wunde.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f95a2e79aad5a969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Flammenarmee.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d914429a7695878c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Pulsierende Flammen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "47b63dcc13ad998c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Eranog - Übersicht.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -111,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Blitzschläge.md"
+                "file": "01 - Gewölbe der Inkarnation/01 - Eranog/Eranog - Übersicht.md"
               }
             }
           }
@@ -120,19 +297,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 328.5
   },
-  "active": "b45d942fd6ea6ad9",
+  "active": "47b63dcc13ad998c",
   "lastOpenFiles": [
-    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Donnernde Energie.md",
-    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Donnernder Einschlag.md",
-    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Blitzatem.md",
-    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Verbleibende Ladung.md",
-    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Fulminante Ladung.md",
-    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Orkanschwinge.md",
-    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Tobender Sturm.md",
-    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Unkontrollierte Energie.md",
-    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Knisternde Energie.md",
-    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Kugelblitz.md"
+    "01 - Gewölbe der Inkarnation/01 - Eranog/Encounter/Eranog.md",
+    "01 - Gewölbe der Inkarnation/01 - Eranog/Encounter/Urflamme.md",
+    "01 - Gewölbe der Inkarnation/01 - Eranog/Encounter/Flammenschuppentarasek.md",
+    "01 - Gewölbe der Inkarnation/01 - Eranog/Encounter/Flammenschuppenhauptmann.md",
+    "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Pyroschlag.md",
+    "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Geschmolzene Stacheln.md",
+    "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Großer Flammenriss.md",
+    "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Brennende Wunde.md",
+    "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Einäscherndes Brüllen.md",
+    "01 - Gewölbe der Inkarnation/01 - Eranog/Abilities/Flammenarmee.md"
   ]
 }

@@ -10,21 +10,20 @@ Eranog, der Befehlshaber der Streitkräfte der Primalisten, greift rücksichtslo
 ---
 ## Zusammenfassung
 
-PLACEHOLDER
+Eranog führt seine Streitkräfte der Primalisten mit einer Kombination aus brutalen Angriffen und listigen Strategien. Der Primalistenkommandant beschwört  über [[Flammenriss]] tödliche Diener, die brodelnde Pfützen [[Lavafluss]] hinterlassen. 
+
+Bei Erreichen von 100 Energie, beschwört Eranog eine [[Flammenarmee]], um seine Gegner einzukreisen.
 
 - Tanks
-	- [[Geschmolzener Schwung]] fügt allen Spielercharakteren vor [[Eranog - Übersicht]] massiven Schaden zu. Weitere Treffer gegen dasselbe Ziel verursachen stark erhöhten Schaden.
-	- [[Kollabierende Armee]] fügt allen, die in den Weg des Elementars geraten, tüdlichen Schaden zu.
-	- Kollabierende Flammen im [[Urzeitlicher Fluss]] erhalten [[Geschmolzene Barriere]]
+	- Eranogs geschmolzene Axt verursacht [[Brennende Wunde]]
+	- [[Geschmolzenes Spalten]] fügt allen Spielercharakteren vor Eranog massiven Schaden zu.
+	- [[Flammenarmee]] fügt allen, die in den Weg der Elementare geraten, tödlichen Schaden zu.
 - DPS
-	- [[Kollabierende Armee]] fügt allen, die in den Weg des Elementars geraten, tödlichen Schaden zu.
-	- Kollabierende Flammen im [[Urzeitlicher Fluss]] erhalten [[Geschmolzene Barriere]]
-	- Rasende [[Tarasek]] fixieren sich auf ihr Ziel, bis sie getötet werden.
+	- [[Geschmolzenes Spalten]] fügt allen Spielercharakteren vor Eranog massiven Schaden zu.
+	- [[Flammenarmee]] fügt allen, die in den Weg der Elementare geraten, tödlichen Schaden zu.
+	- [[Flammenschuppentarasek]] fixieren sich bis zu ihrer Vernichtung auf ihr Ziel.
 - Heiler
-	- [[Kollabierende Armee]] fügt allen , die in den Weg des Elementars geraten, tödlichen Schaden zu.
-	- Spielercharaktere, die mit [[Wachsende Hitze]] markiert sind, erleiden während der Dauer massiven Feuerschaden.
-	- Kollabierende Flammen im [[Urzeitlicher Fluss]] erhalten [[Geschmolzene Barriere]]
+	- [[Geschmolzenes Spalten]] fügt allen Spielercharakteren vor Eranog massiven Schaden zu.
+	- [[Flammenarmee]] fügt allen, die in den Weg der Elementare geraten, tödlichen Schaden zu.
+	- Eranog verursacht mit jedem [[Einäscherndes Brüllen]] mehr Feuerschaden an.
 ---
-
----
-

@@ -9,3 +9,9 @@
 
 
 ***
+
+> [!INFO]- Änderung: Heroic
+> TEXT
+
+> [!INFO]- Änderung: Mythic
+> TEXT
