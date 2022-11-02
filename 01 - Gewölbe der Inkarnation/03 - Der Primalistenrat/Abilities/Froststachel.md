@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Kadros wirft einen Eisstachel in Richtung eines zufälligen Spielercharakters und fügt diesem 42.689 Frostschaden zu.
 
 
 

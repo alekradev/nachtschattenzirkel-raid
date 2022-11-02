@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Ein Blitzschlag trifft einen zufälligen Spielercharakter, fügt ihm 42.689 Naturschaden zu und springt dann auf Spielercharaktere in der Nähe über.
 
 
 

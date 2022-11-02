@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Dathea schleudert Blitze auf einen zufälligen Spielercharakter, die ihm 42.689 Naturschaden zufügen.
 
 
 

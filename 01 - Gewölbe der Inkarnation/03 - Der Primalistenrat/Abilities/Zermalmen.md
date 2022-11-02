@@ -4,8 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
-
+Opalzahn zerquetscht ihr derzeitiges Ziel, fügt ihm so 213.445 körperlichen Schaden zu und erhöht den erlittenen körperlichen Schaden um 100%. Dieser Effekt ist stapelbar.
 
 
 ***

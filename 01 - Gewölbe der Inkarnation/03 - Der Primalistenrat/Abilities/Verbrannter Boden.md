@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Der Einschlag von Embars [[Meteoräxten]] versengt den Boden 2.2 Min. lang und fügt Spielercharakteren in dem Bereich alle 2 Sek. 5.186 Feuerschaden zu. Die Hitze bannt [[Urzeitlicher Blizzard]].
 
 
 

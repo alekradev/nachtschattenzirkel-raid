@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Opalzahn lässt an den Standorten von 4 Spielercharakteren Felssäulen aus dem Boden bersten, die Spielercharakteren innerhalb von 6 Metern 85.378 Naturschaden zufügen und sie zurückstoßen. [[Heroisch]] [[Irdene Säule]] zielt auf 4 Spielercharaktere.
 
 
 

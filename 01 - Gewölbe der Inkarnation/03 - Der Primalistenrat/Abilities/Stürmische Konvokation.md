@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Wenn sie besiegt wird, beschwört Dathea alle 15 Sek. Tornados an den Positionen mehrerer Spielercharaktere. Spielercharaktere, die diese berühren, werden zurückgestoßen und erleiden 42.689 Naturschaden. Dathea kanalisiert, bis alle Mitglieder des Primalistenrates besiegt wurden.
 
 
 

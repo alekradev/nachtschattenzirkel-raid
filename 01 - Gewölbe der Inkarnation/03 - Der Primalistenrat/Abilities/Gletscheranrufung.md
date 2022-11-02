@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Wenn er besiegt wird, führt Kadros eine Konvokation des Ureises durch, was allen Spielercharakteren alle 5 Sek. 17.076 Frostschaden zufügt und ihren erlittenen Frostschaden dabei um 10% erhöht. Verbrannter Boden bannt diesen Effekt. Kadros kanalisiert, bis alle Mitglieder des Primalistenrats besiegt wurden.
 
 
 
