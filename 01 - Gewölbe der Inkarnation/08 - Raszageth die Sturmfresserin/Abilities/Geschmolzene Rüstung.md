@@ -4,7 +4,5 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
-
-
+Erhöht den erlittenen körperlichen Schaden 40 Sek. lang um 100%.
 ***

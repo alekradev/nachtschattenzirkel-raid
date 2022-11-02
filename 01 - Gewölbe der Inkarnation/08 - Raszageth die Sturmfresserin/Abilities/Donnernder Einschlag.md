@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Raszageth konzentriert einen Donnerstrahl auf ihr Ziel. Fügt allen Spielercharakteren in einer geraden Linie zum Ziel 2 Sek. lang alle 0,5 142.261 Naturschaden zu. Durch [[Donnernder Einschlag]] getroffene Spielercharaktere werden mit [[Donnernde Energie]] belegt.
 
 
 ***

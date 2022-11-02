@@ -4,7 +4,6 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
-
+Raszageth fegt über die Plattform und atmet dabei Blitze in einer Linie aus. Fügt Spielercharakteren im Einschlagsbereich 1.4 Millionen Naturschaden zu.
 
 ***

@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Wenn es besiegt wird, überlädt das [[kolossale Sturmungetüm]] das verbleibende kolossale Sturmungetüm, was dessen Angriffstempo um 30% erhöht und dafür sorgt, dass es alle 2 Sek. weitere Anwendungen von [[Knisternde Energie]] erhält, bis es besiegt wird.
 
 
 ***

@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Das [[kolossale Sturmungetüm]] knistert vor Energie und fügt allen Spielercharakteren alle Z Sek. 8.536 Naturschaden zu.
 
 
 ***

@@ -5,6 +5,7 @@
 
 ***
 
+Raszageth schickt durch alle Spielercharaktere elektrische Ströme, die Spielercharakteren innerhalb von 8 Metern um die jeweiligen Positionen 93.892 Naturschaden zufügen und einen instabilen Funken zurücklassen.
 
 
 ***

@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Der instabile Funke explodiert und zerstört sich dabei selbst, um allen Spielercharakteren sofort 32.720 Naturschaden zuzufügen sowie zusätzlich 3 Sek. lang alle 1 Sek. 32.720 Naturschaden. Dieser Effekt ist stapelbar.
 
 
 ***

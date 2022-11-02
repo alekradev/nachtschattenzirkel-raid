@@ -4,7 +4,7 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
+Raszageths Präsenz ruft in regelmäßigen Abständen [[Blitzschläge]] herab, die Spielercharakteren im Einschlagsbereich 93.892 Naturschaden zufügen und sie für 0,5 Sek. betäuben.
 
 
 ***

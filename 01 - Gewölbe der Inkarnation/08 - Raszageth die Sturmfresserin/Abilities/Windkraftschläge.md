@@ -4,7 +4,6 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
-
+Der Zaubernde erhält mit jedem erfolgreichen Nahkampfangriff 10% Angriffstempo und Bewegungsgeschwindigkeit.
 
 ***

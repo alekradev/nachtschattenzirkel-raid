@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "f0214bd64305bad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b9095ffae14fd64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72c95ec1b3908da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/06 - Kurog Grimmtotem/Abilities/Blitzeinschlag.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b45d942fd6ea6ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Blitzschläge.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae0b98530d33cc5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "018beebb155d3a6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ff67c88ad835173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5652c3d750c3b08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68fd35be0ba25f06",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "right": {
+    "id": "6eb6f2a52a4e291a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3be096b4f9c63b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7331715ae4f718d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27097714eaf8ce79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Blitzschläge.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "active": "b45d942fd6ea6ad9",
+  "lastOpenFiles": [
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Donnernde Energie.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Donnernder Einschlag.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Blitzatem.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Verbleibende Ladung.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Fulminante Ladung.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Orkanschwinge.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Tobender Sturm.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Unkontrollierte Energie.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Knisternde Energie.md",
+    "01 - Gewölbe der Inkarnation/08 - Raszageth die Sturmfresserin/Abilities/Kugelblitz.md"
+  ]
+}

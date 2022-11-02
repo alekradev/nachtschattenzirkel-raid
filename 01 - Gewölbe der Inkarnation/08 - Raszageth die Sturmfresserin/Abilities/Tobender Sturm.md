@@ -4,7 +4,6 @@
 > ![[magic.png|36]] ![[curse.png|36]] ![[disease.png|36]] ![[bleeding.png|36]] ![[poison.png|36]] 
 
 ***
-
-
+Raszageth beschwört einen tobenden Sturm der mit der Zeit die Plattform einnimmt. Spielercharaktere im Effektbereich erleiden alle 2 Sek. 42.678 Naturschaden
 
 ***

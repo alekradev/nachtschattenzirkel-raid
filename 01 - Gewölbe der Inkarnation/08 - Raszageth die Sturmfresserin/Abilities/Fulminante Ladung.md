@@ -5,6 +5,9 @@
 
 ***
 
+Raszageth lädt Ziele mit Elektrizität auf und macht sie 4 Sek. lang bewegungsunfähig. Bei Ablauf entlädt sich die Aufladung, fügt allen Spielercharakteren im Effektbereich 62.595 Naturschaden zu und springt auf das nächste Opfer über. Wenn [[Fulminante Ladung]] kein weiteres Ziel trifft, verpufft der Effekt. Jedes Mal, wenn [[Fulminante Ladung]] auf ein neues Ziel überspringt verringert sich der Radius und das Ziel wird mit [[Verbleibende Ladung]] belegt. 
 
+Mythisch
+Das Ziel von [[Fulminante Ladung]] wird bewegungsunfähig.
 
 ***

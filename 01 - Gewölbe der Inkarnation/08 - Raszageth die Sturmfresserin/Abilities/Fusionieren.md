@@ -5,6 +5,6 @@
 
 ***
 
-
+Beim Erreichen des [[kolossalen Sturmungetums]], das ihn erschaffen hat, opfert sich der suchende [[Sturmling]] und heilt das kolossale Sturmungetüm um 5% seiner maximalen Gesundheit und erhöht seinen verursachten Schaden um 10%. Dieser Effekt ist stapelbar.
 
 ***

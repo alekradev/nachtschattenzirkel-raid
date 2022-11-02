@@ -5,6 +5,10 @@
 
 ***
 
+Raszageth wendet eine Statische Aufladung auf Spielercharaktere an, die ihnen alle 1 Sek. 5.690 Naturschaden zufügt. Bei Ablauf fügt Sie allen Spielercharakteren innerhalb von 15 Metern 85.356 Naturschaden zu. Spielercharakteren, die weiter als 15 Metern entfernt sind, fügt sie stattdessen 34.143 Naturschaden zu. 
+
+Erschafft am Zielort ein Statisches Feld.
+
 
 
 ***
